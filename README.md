@@ -1,6 +1,6 @@
 **Версия PHP:** 8.1.1
 
-**Системный требования:** 7/8/8.1/10/11, Microsoft Visual C++
+**Системный требования:** 7/8/8.1/10/11, [Microsoft Visual C++](http://forum.oszone.net/thread-145766.html)
 
 # PHPDesktop (x86)
 [Скачать "PHPDesktop.7z"](https://cloud.mail.ru/public/T7Pd/RyaWyN3ko)
