@@ -1,11 +1,14 @@
-# PHPDesktop
+Версия PHP: 8.1.1
+Системный требования: 7/8/8.1/10/11, Microsoft Visual C++
+
+# PHPDesktop (x86)
 [Скачать "PHPDesktop.7z"](https://cloud.mail.ru/public/T7Pd/RyaWyN3ko)
 
-# ELECTRON-4-PHP
+# ELECTRON-4-PHP (x86)
 [Скачать "ELECTRON-4-PHP.7z"](https://cloud.mail.ru/public/aesz/p716C9rWd)
 
-# PHPServer
+# PHPServer (x86)
 [Скачать "PHPServer.7z"](https://cloud.mail.ru/public/5UyH/ZV5dEwe6X)
 
-# WebServer
+# WebServer (x64)
 [Скачать "WebServer.7z"](https://cloud.mail.ru/public/MBVj/PfCG7Kquh)
